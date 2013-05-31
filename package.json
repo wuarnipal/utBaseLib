@@ -1,0 +1,26 @@
+{
+	"name": "utBaseLib",
+	"description": "Basic library for Utsaina NodeJS projects",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/utsaina/utBaseLib.git"
+	},
+	"author": "David R. Souto <utsaina@gmail.com>",
+	"contributors": [
+		{
+			"name": "David R. Souto",
+			"email": "utsaina@gmail.com"
+		}
+	],
+	"keywords": [
+		"node",
+		"eventemitter2"
+	],
+	"dependencies": {
+		"eventemitter2": ">=0.4.11"
+	},
+	"engines": {
+		"node": ">=0.8.22"
+	}
+}
