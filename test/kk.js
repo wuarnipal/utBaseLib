@@ -4,7 +4,7 @@ var y = 7; \
 console.log('x,y',x,y); \
 ";
 
-eval(a);
+//eval(a);    //update 2 
 
 
 //modif 1
